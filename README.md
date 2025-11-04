@@ -21,4 +21,6 @@ Currently, I’m deepening my understanding of **Core Java**, practicing **Data 
 
 ---
 
+![](https://leetcard.jacoblin.cool/Rohan1973?ext=heatmap)
+
 > _"Continuous learning and collaboration are the keys to building something meaningful."_  
