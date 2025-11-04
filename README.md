@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohan Baranwal</h1>
-<h3 align="center">Currently, I’m deepening my understanding of <li>Core Java,</li> ,<b>,<li>practicing **Data Structures & Algorithms (DSA)**,</li> and honing my **competitive programming** skills.</h3>
+<h3 align="center">Currently, I’m deepening my understanding of <li>Core Java,</li> <li>practicing **Data Structures & Algorithms (DSA)**, and</li> <li>honing my **competitive programming** skills.</li></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohan10027&label=Profile%20views&color=0e75b6&style=flat" alt="rohan10027" /> </p>
 
