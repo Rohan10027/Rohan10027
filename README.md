@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohan10027" alt="rohan10027" /></a> </p>
 
-<p align="left"> <a href="https://x.com/Rohan10027" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **-Java (Core & Backend Development) - Docker & Kubernetes - AI Agent frameworks and modern automation tools**
 
